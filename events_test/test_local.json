@@ -1,0 +1,11 @@
+{
+    "queryStringParameters": {
+        "atencionId": "1",
+        "userId": "user123"
+      },
+      "Headers": {
+        "content-type": "application/json",
+        "Authorization": "Bearer <token>"
+      },
+      "body": ""
+}

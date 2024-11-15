@@ -1,0 +1,5 @@
+node_modules
+dist
+pnpm-lock.yaml
+events_test/test_local.js
+test_local.js
